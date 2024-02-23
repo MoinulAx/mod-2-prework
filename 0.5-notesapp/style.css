@@ -57,11 +57,3 @@
     right: 15px;
     cursor: pointer;
 }
-.watch-link{
-    position: fixed;
-    bottom: 10%;
-    right: 5%;
-    font-size: 12px;
-    text-decoration: none;
-    color: #333;
-}
